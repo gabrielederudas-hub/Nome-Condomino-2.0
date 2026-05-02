@@ -1,5 +1,3 @@
-# Nome-Condomino-2.0
-Sistema di gestione condominiale per il calcolo delle spese
 import streamlit as st
 import pandas as pd
 import os
